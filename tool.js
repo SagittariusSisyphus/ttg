@@ -20,5 +20,3 @@ exports.module = (sql, arr = []) => {
 
     })
 }
-// 干的不错
-

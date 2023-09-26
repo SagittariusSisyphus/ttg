@@ -20,3 +20,4 @@ exports.module = (sql, arr = []) => {
 
     })
 }
+// not ok
